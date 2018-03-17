@@ -1,93 +1,122 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Pierre-Alain RIVIERE",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://pariviere.github.io/images/pariviere.jpg",
+    "email": "chez.pa (at) gmail.com",
+    "website": "https://pariviere.github.io",
+    "summary": "Travaille dans le milieu de l'IT depuis plus de 10 ans, expert en tout, expert en rien. Dev ou Ops? Je veux pas choisir",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "97425",
+      "city": "Les Avirons",
+      "countryCode": "FR",
+      "region": "Reunion"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "pariviere",
+        "url": "http://github.com/pariviere"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "pariviere",
+        "url": "https://www.linkedin.com/in/pierre-alain-riviere-25a43715b/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "pariviere",
+        "url": "http://twitter.com/pariviere"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Cloud",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "OpenNebula",
+        "CloudFoundry"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Outillage DevOps",
       "keywords": [
+        "Puppet",
+        "Ansible",
+        "Fabric",
+        "MCollective",
+        "Packer",
+        "Docker"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Monitoring",
       "keywords": [
+        "InfluxDB",
+        "Riemann",
+        "ElasticSearch"
+      ]
+    },
+    {
+      "name": "Développement Backend",
+      "keywords": [
+        "Spring",
+        "Spring Boot",
+        "Ruby on Rails",
+        "Django"
+      ]
+    },
+    {
+      "name": "Développement frontend",
+      "keywords": [
+        "HTML5/CSS3",
+        "Ergonomie",
+        "VueJS",
+        "SemanticUI"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+      "name": "Backend",
+      "level": "Bon",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Spring Framework",
+        "Liferay Portal",
+        "Ruby on Rails",
+        "Django"
       ]
     },
     {
-      "name": "Toolsets/OS",
-      "level": "",
+      "name": "Système",
+      "level": "Expert",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Linux",
+        "KVM",
+        "Apache",
+        "Tomcat",
+        "JVM Java"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "SUPINFO Paris",
+      "area": "Ecole d'informatique",
+      "studyType": "BAC+5",
+      "startDate": "2003-10-01",
+      "endDate": "2006-10-01",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Lycée de Bellepierre",
+      "area": "Brevet Technicien Supérieur",
+      "studyType": "BAC+2",
+      "startDate": "2001-08-01",
+      "endDate": "2003-05-01",
       "gpa": "",
       "courses": [
       ]
@@ -95,75 +124,44 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "ISODOM Services",
+      "position": "Expert Logiciels",
+      "website": "http://www.isodom.com",
+      "startDate": "2016-07-18",
+      "endDate": "#",
+      "summary": "J'y assure des missions variées alternant le conseil, le forfait ou l'édition de logiciel",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Creation d'application Web au forfait sur base de JHipster",
+        "Developpement et maintenance d'une application Ruby On Rails",
+        "Audit de performance, accompagnement à l'API-Fication d'un SI opérateur"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Ippon Hosting",
+      "position": "Administrateur systèmes et réseaux DevOps",
+      "website": "http://www.ippon.fr",
+      "startDate": "2014-06-01",
+      "endDate": "2016-06-01",
+      "summary": "Gestion et évolution d'un parc de serveurs essentiellement basé sur Linux : Debian, Ubuntu mais aussi CentOS et RedHat",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Maintenance d'une infrastructure de virtualisation legacy à base de XCP",
+        "Mise de Puppet et développement de modules clients spécifique",
+        "Développement d'un dashboard client pour accéder aux outils de supervision",
+        "Création de Goshin (https://github.com/ippontech/goshin) pour la collecte des métriques systèmes"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Ippon Technologies",
+      "position": "Expert Java",
+      "website": "http://www.ippon.fr",
+      "startDate": "2006-10-01",
+      "endDate": "2014-06-01",
+      "summary": "Consultant Java",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Spécialiste de la solution Liferay : http://www.liferay.com",
+        "Intervention récurrente sur des problématiques de performance d'applications Web avec l'utilisation d'outils comme AppDynamics, Dynatrace ou équivalent",
+        "Intérêt certains pour le monde Linux et les problématiques d'hébergement qui ont conduit infine à mon arrivée chez Ippon Hosting"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
